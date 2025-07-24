@@ -1,6 +1,6 @@
 /**
  * Burner Control System for Arduino UNO with Atmel 328p
- * 
+ *  Hi Marty
  * This program implements a state machine for controlling a burner system
  * based on various inputs, outputs, timers, and counters.
  * 
